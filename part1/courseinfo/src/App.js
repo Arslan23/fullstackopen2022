@@ -4,8 +4,7 @@ const Header = (props)=>{
     
     const Part = (props)=>{
       return (<p>{props.part} {props.exercise}</p>);}
-    
-    
+
     const Content = (props)=>{
       return (
         <div>
